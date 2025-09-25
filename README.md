@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">👋 Salut, moi c'est Mathis !</h1>
 
-<!--
-**KitsuneRandom/KitsuneRandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧍 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>- Étudiant en 2ème année de BUT informatique</li>
+<li>- Mes passions :</li>
+  <ul>
+    <li>🎮 Jeux vidéo</li>
+    <li>🎧 Écouter de la musique</li>
+  </ul>
+<li>- Je travaille avec :  </li>
+  <ul>
+    <li>🌐 HTML, CSS, JavaScript, PHP</li>
+    <li>☕ Java</li>
+    <li>🅲 C, C#</li>
+    <li>📊 SQLite</li>
+    <li>🤖 Godot</li>
+    <li>🐍 Python</li>
+    <li>🐈 Scratch (pourquoi pas ?)</li>
+  </ul>
+</ul>
+
+---
+
+## 📫 Me contacter
+
+- 💌 Email étudiant : [mathis.de-azevedo@etu-unistra.fr](mailto:mathis.de-azevedo@etu-unistra.fr)
+- 💌 Email personnel : [mathisdeazevedo26@gmail.com](mailto:mathisdeazevedo26@gmail.com)
+
+---
+
+## 🐈 Une photo de mon chat
+
+<img source="">
+
+
+
+
+
+
