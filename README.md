@@ -34,7 +34,7 @@
 
 ## 🐈 Une photo de mon chat
 
-<img source="mon_chat.jpg">
+<img src="mon_chat.jpg">
 
 
 
