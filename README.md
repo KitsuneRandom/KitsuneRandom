@@ -10,13 +10,14 @@
   <ul>
     <li>🎮 Jeux vidéo</li>
     <li>🎧 Écouter de la musique</li>
+    <li>🎴 Jeux de carte à collectionner</li>
   </ul>
 <li>- Je travaille avec :  </li>
   <ul>
     <li>🌐 HTML, CSS, JavaScript, PHP</li>
     <li>☕ Java</li>
     <li>🅲 C, C#</li>
-    <li>📊 SQLite</li>
+    <li>📊 SQL</li>
     <li>🤖 Godot</li>
     <li>🐍 Python</li>
     <li>🐈 Scratch (pourquoi pas ?)</li>
