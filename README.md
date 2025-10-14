@@ -5,14 +5,14 @@
 ## 🧍 À propos de moi
 
 <ul>
-<li>- Étudiant en 2ème année de BUT informatique</li>
-<li>- Mes passions :</li>
+<li> Étudiant en 2ème année de BUT informatique</li>
+<li> Mes passions :</li>
   <ul>
     <li>🎮 Jeux vidéo</li>
     <li>🎧 Écouter de la musique</li>
     <li>🎴 Jeux de carte à collectionner</li>
   </ul>
-<li>- Je travaille avec :  </li>
+<li> Je travaille avec :  </li>
   <ul>
     <li>🌐 HTML, CSS, JavaScript, PHP</li>
     <li>☕ Java</li>
