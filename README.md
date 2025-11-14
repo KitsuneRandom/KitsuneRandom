@@ -31,7 +31,7 @@
 <ul>
   <li>📂 AuditClicker : Création d'un jeu sérieux sur le thème des audits en entreprise, en GdScript (Godot), en binôme</li>
   <li>🐉 Doojons-Dragons : Création d'un simulateur de partie de jeu de rôle, en Java, seul</li>
-  <li>🚒 firefighters App : Création d'une application de gestion de casernes de pompiers, en .NET C#, en trinôme</li>
+  <li>🚒 WaterForce : Création d'une application de gestion de casernes de pompiers, en .NET C#, en trinôme</li>
   <li>🖊️ AssemblySudoku : Création d'un résolveur de Sudoku, en assembleur, en binôme</li>
 </ul>
 
