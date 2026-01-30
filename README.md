@@ -39,7 +39,8 @@
 
 ## 📫 Me contacter
 
-- 💌 Email étudiant : [mathis.de-azevedo@etu-unistra.fr](mailto:mathis.de-azevedo@etu-unistra.fr)
+- 💌 Email étudiant : [mathis.de-azevedo@etu.unistra.fr](mailto:mathis.de-azevedo@etu.unistra.fr)
+- 💌 Email professionnel : [matdeazevedo@gmail.com](mailto:matdeazevedo@gmail.com)
 - 💌 Email personnel : [mathisdeazevedo26@gmail.com](mailto:mathisdeazevedo26@gmail.com)
 
 ---
