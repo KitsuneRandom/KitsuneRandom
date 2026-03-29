@@ -14,7 +14,7 @@
   </ul>
 <li> Je travaille avec :  </li>
   <ul>
-    <li>🌐 HTML, CSS, JavaScript/TypeScript(React), PHP (Laravel)</li>
+    <li>🌐 HTML, CSS, JavaScript/TypeScript (React), PHP (Laravel)</li>
     <li>☕ Java : interfaces Swing, tests Junit</li>
     <li>📱 Android Studio (Java)</li>
     <li>🅲 C, C# (.NET)</li>
