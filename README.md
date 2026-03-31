@@ -5,24 +5,25 @@
 ## 🧍 À propos de moi
 
 <ul>
-<li> Étudiant en 2ème année de BUT informatique</li>
-<li> Mes passions :</li>
-  <ul>
-    <li>🎮 Jeux vidéo</li>
-    <li>🎧 Écouter de la musique</li>
-    <li>🎴 Jeux de carte à collectionner</li>
-  </ul>
-<li> Je travaille avec :  </li>
-  <ul>
-    <li>🌐 HTML, CSS, JavaScript/TypeScript (React), PHP (Laravel)</li>
-    <li>☕ Java : interfaces Swing, tests Junit</li>
-    <li>📱 Android Studio (Java)</li>
-    <li>🅲 C, C# (.NET)</li>
-    <li>📊 SQL</li>
-    <li>🤖 Godot Engine (GD Script)</li>
-    <li>🐍 Python</li>
-    <li>🐈 Scratch (pourquoi pas ?)</li>
-  </ul>
+  <li> Étudiant en 2ème année de BUT informatique, parcours développement d'applications</li>
+  <li> Stagiaire au service informatique des finances publiques de Strasbourg</li>
+  <li> Mes passions :</li>
+    <ul>
+      <li>🎮 Jeux vidéo</li>
+      <li>🎧 Écouter de la musique</li>
+      <li>🎴 Jeux de carte à collectionner</li>
+    </ul>
+  <li> Je travaille avec :  </li>
+    <ul>
+      <li>🌐 HTML, CSS, JavaScript/TypeScript (React), PHP (Laravel)</li>
+      <li>☕ Java : interfaces Swing, tests Junit</li>
+      <li>📱 Android Studio (Java)</li>
+      <li>🅲 C, C# (.NET)</li>
+      <li>📊 SQL</li>
+      <li>🤖 Godot Engine (GD Script)</li>
+      <li>🐍 Python</li>
+      <li>🐈 Scratch (pourquoi pas ?)</li>
+    </ul>
 </ul>
 
 ---
