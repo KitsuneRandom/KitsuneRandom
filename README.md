@@ -53,8 +53,9 @@
 - 💌 Email étudiant : [mathis.de-azevedo@etu.unistra.fr](mailto:mathis.de-azevedo@etu.unistra.fr)
 - 💌 Email professionnel : [matdeazevedo@gmail.com](mailto:matdeazevedo@gmail.com)
 - 💌 Email personnel : [mathisdeazevedo26@gmail.com](mailto:mathisdeazevedo26@gmail.com)
-- 💻 Discord : kitsune._.random
-- 📷 Instagram : _____kitsu
+- 💻 Discord : [kitsune._.random](https://discord.com/)
+- 📷 Instagram : [kitsu_____](https://www.instagram.com/kitsu_____/)
+- ▶️ Youtube : [Kitsu](https://youtu.be/dQw4w9WgXcQ?si=2lMsfCQnMJjmoqrj)
 
 ---
 
