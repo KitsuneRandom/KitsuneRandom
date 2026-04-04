@@ -31,6 +31,7 @@
 ## ☕ Mes projets universitaires
 
 <ul>
+  <li>📚 ABCProject : Création d'un application mobile de gestion de livres à partir d'une API, en Java (Android), en binôme</li>
   <li>📂 AuditClicker : Création d'un jeu sérieux sur le thème des audits en entreprise, en GdScript (Godot), en binôme</li>
   <li>8️⃣ 2048 : Création d'un jeu de 2048 fonctionnant avec plusieurs processus communicant entre eux, en C, en trinôme</li>
   <li>🚢 Battleships : Création d'un jeu de bataille navale, en Java (Swing), en binôme</li>
