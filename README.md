@@ -10,7 +10,7 @@
   <li> Mes passions :</li>
     <ul>
       <li>🎮 Jeux vidéo</li>
-      <li>🎧 Écouter de la musique</li>
+      <li>🎧 Musique</li>
       <li>🎴 Jeux de carte à collectionner</li>
     </ul>
   <li> Je travaille avec :  </li>
