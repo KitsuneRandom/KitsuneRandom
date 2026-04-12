@@ -46,7 +46,7 @@
 ## 🍪 Mes projets personnels
 
 <ul>
-  <li>🐈 ARandomGame : Création d'un jeu d'aventure 2D dans un monde fantastique, en GdScript (Godot), avec 4 amis</li>
+  <li>🐈 <a href="https://github.com/KitsuneRandom/aRandomGame">ARandomGame</a> : Création d'un jeu d'aventure 2D dans un monde fantastique, en GdScript (Godot), avec 4 amis</li>
 </ul>
 
 ---
