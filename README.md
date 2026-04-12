@@ -31,13 +31,14 @@
 ## ☕ Mes projets universitaires
 
 <ul>
-  <li>📚 ABCProject : Création d'un application mobile de gestion de livres à partir d'une API, en Java (Android), en binôme</li>
-  <li>📂 AuditClicker : Création d'un jeu sérieux sur le thème des audits en entreprise, en GdScript (Godot), en binôme</li>
-  <li>8️⃣ 2048 : Création d'un jeu de 2048 fonctionnant avec plusieurs processus communicant entre eux, en C, en trinôme</li>
-  <li>🚢 Battleships : Création d'un jeu de bataille navale, en Java (Swing), en binôme</li>
-  <li>🐉 Doojons-Dragons : Création d'un simulateur de partie de jeu de rôle, en Java, seul</li>
-  <li>🚒 WaterForce : Création d'une application de gestion de casernes de pompiers, en .NET C#, en trinôme</li>
-  <li>🖊️ AssemblySudoku : Création d'un résolveur de Sudoku, en assembleur, en binôme</li>
+  <li>🐉 <a href="https://github.com/KitsuneRandom/neethogg">NEEThogg</a> : Création d'un jeu sérieux sur le thème de la massification éducative, en GdScript (Godot), en trinôme</li>
+  <li>📚 <a href="https://github.com/KitsuneRandom/abcProject">ABCProject</a> : Création d'un application mobile de gestion de livres à partir d'une API, en Java (Android), en binôme</li>
+  <li>📂 <a href="https://github.com/KitsuneRandom/AuditClicker">AuditClicker</a> : Création d'un jeu sérieux sur le thème des audits en entreprise, en GdScript (Godot), en binôme</li>
+  <li>8️⃣ <a href="https://github.com/KitsuneRandom/demi-le-cas-rend-tu-hit">2048</a> : Création d'un jeu de 2048 fonctionnant avec plusieurs processus communicant entre eux, en C, en trinôme</li>
+  <li>🚢 <a href="https://github.com/KitsuneRandom/battleships">Battleships</a> : Création d'un jeu de bataille navale, en Java (Swing), en binôme</li>
+  <li>🐉 <a href="https://github.com/KitsuneRandom/Doojon-Dragons">Doojons-Dragons</a> : Création d'un simulateur de partie de jeu de rôle, en Java, seul</li>
+  <li>🚒 <a href="https://github.com/KitsuneRandom/WaterForce">WaterForce</a> : Création d'une application de gestion de casernes de pompiers, en .NET C#, en trinôme</li>
+  <li>🖊️ <a href="https://github.com/KitsuneRandom/AssemblySudoku">AssemblySudoku</a> : Création d'un résolveur de Sudoku, en assembleur, en binôme</li>
 </ul>
 
 ---
